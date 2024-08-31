@@ -13,6 +13,10 @@ body {
     max-width: 100%;
 }
 
+section {
+    padding: 28px 8%;
+}
+
 .btn-default {
     border: none;
     display: flex;
